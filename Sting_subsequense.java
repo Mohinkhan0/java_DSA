@@ -26,6 +26,6 @@ class Sting_subsequense
      String str="Ravi";
      ArrayList<String> s=subseq(str);
      System.out.println(s);
-
+     // output : [, R, a, Ra, v, Rv, av, Rav, i, Ri, ai, Rai, vi, Rvi, avi, Ravi]
    }  
 }
