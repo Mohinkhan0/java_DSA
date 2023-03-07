@@ -3,7 +3,7 @@ public class SpanArray
 
     static void span(int array[],int length)
     {
-       int temp;
+       int temp; // it will calcuate span of array like it will do (maximum-minimun) of an array 
        for(int i=0; i<length;i++)
        {
          for(int j=0 ; j<length; j++)
